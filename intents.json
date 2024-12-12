@@ -1,0 +1,194 @@
+[
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Hi there",
+        "Greetings",
+        "What's up?",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Howdy",
+        "Hey there!",
+        "Yo!"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I help you with?",
+        "Hey! Looking for something specific?",
+        "Good day! Let me know how I can assist you.",
+        "Howdy! Need help finding something?",
+        "Yo! What are you looking for today?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Take care",
+        "Catch you later",
+        "Farewell",
+        "Talk to you soon",
+        "Peace out",
+        "Later!"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "Bye! Feel free to reach out anytime.",
+        "Take care! Hope to see you again soon.",
+        "Farewell! Stay safe and take care.",
+        "See you soon! Don’t hesitate to ask for help.",
+        "Later! Come back anytime you need assistance."
+      ]
+    },
+    {
+      "tag": "product_inquiry",
+      "patterns": [
+        "Tell me about this product",
+        "What features does this product have?",
+        "Is this product available in other colors?",
+        "Does it come in different sizes?",
+        "Show me more details about this item",
+        "Can you list the specifications?",
+        "Is this product durable?",
+        "What materials is this made of?",
+        "Does it have a warranty?",
+        "Can I see customer reviews?",
+        "What’s the best-selling feature of this product?",
+        "Is there a manual or guide for this item?"
+      ],
+      "responses": [
+        "This product is available in multiple colors and sizes. Please let me know what you need!",
+        "Here are the features of this product: [Insert product details].",
+        "You can find more information on the product page or let me know your specific queries!",
+        "This product comes with a 1-year warranty. Let me know if you'd like to know more!",
+        "Customer reviews are available on the product page under the reviews section.",
+        "The manual is included with the product. If you'd like, I can guide you through it!"
+      ]
+    },
+    {
+      "tag": "order_status",
+      "patterns": [
+        "Where is my order?",
+        "Track my order",
+        "Order status",
+        "Can you check my order?",
+        "What happened to my order?",
+        "I haven’t received my order yet",
+        "How do I track my package?",
+        "Is my order delayed?",
+        "How long does delivery take?",
+        "Can I change the delivery address?",
+        "What’s the expected delivery date?",
+        "Is my package out for delivery?"
+      ],
+      "responses": [
+        "Please provide your order number so I can check the status for you.",
+        "Let me fetch the latest update on your order. Can I have your order ID?",
+        "Your order is currently being processed. You can track it [insert tracking link].",
+        "It seems there might be a delay. Let me check further for you.",
+        "Your package is out for delivery and should arrive soon. Track it here: [insert link]."
+      ]
+    },
+    {
+      "tag": "shipping_info",
+      "patterns": [
+        "Do you ship internationally?",
+        "What are the shipping options?",
+        "How long does shipping take?",
+        "Tell me about shipping charges",
+        "Is expedited shipping available?",
+        "Can you ship to my country?",
+        "What courier service do you use?",
+        "Is free shipping available?",
+        "Do you offer same-day delivery?",
+        "What are the delivery timeframes for standard shipping?",
+        "Can I choose a specific courier service?",
+        "Is contactless delivery an option?"
+      ],
+      "responses": [
+        "Yes, we ship internationally. Shipping charges and times may vary depending on your location.",
+        "We offer standard and expedited shipping. Please visit our shipping policy page for details.",
+        "Expedited shipping is available for select locations. Let me check for you!",
+        "Orders over $50 are eligible for free shipping in select regions.",
+        "Contactless delivery is available upon request. Let us know if you’d prefer this option."
+      ]
+    },
+    {
+      "tag": "return_policy",
+      "patterns": [
+        "How do I return a product?",
+        "Tell me about your return policy",
+        "Can I get a refund?",
+        "What is the return period?",
+        "How does the refund process work?",
+        "Are there any return charges?",
+        "What conditions apply for returns?",
+        "Can I exchange an item instead of returning?",
+        "What happens if the product is damaged?",
+        "Do you offer free returns?",
+        "Is there a limit to how many items I can return?",
+        "Can I cancel my return request?"
+      ],
+      "responses": [
+        "You can return products within 30 days of delivery. Please visit our returns page for detailed instructions.",
+        "Refunds are processed within 7-10 business days after we receive the returned item.",
+        "Let me guide you through the return process. Do you have your order ID handy?",
+        "Exchanges are allowed for the same product variant if in stock.",
+        "We offer free returns for defective or damaged products. Contact support for further assistance."
+      ]
+    },
+    {
+      "tag": "payment_methods",
+      "patterns": [
+        "What payment methods do you accept?",
+        "Do you accept PayPal?",
+        "Can I pay with a credit card?",
+        "What are the available payment options?",
+        "Is Cash on Delivery available?",
+        "Can I use gift cards for payment?",
+        "Are there any EMI options?",
+        "What currencies do you accept?",
+        "Can I pay using cryptocurrency?",
+        "Are there any additional charges for using certain payment methods?",
+        "Is payment on delivery secure?",
+        "Can I split my payment across multiple methods?"
+      ],
+      "responses": [
+        "We accept multiple payment methods, including credit cards, PayPal, and bank transfers.",
+        "Cash on Delivery is available in select regions. Let me check if it's available for your location.",
+        "Feel free to choose your preferred payment method during checkout.",
+        "EMI options are available for purchases above $100.",
+        "Cryptocurrency payments are supported for select items. Check the product page for details."
+      ]
+    },
+    {
+      "tag": "discounts",
+      "patterns": [
+        "Any deals on electronics?",
+        "Do you have any discounts right now?",
+        "Are there promo codes available?",
+        "Tell me about ongoing offers",
+        "How can I get a discount?",
+        "Do first-time buyers get discounts?",
+        "Are there seasonal sales?",
+        "What’s the biggest discount currently?",
+        "Is there a loyalty program?",
+        "Can I combine multiple promo codes?",
+        "Do students get any discounts?",
+        "Is there a referral discount?"
+      ],
+      "responses": [
+        "We have exciting offers on various products. Visit our Deals page to explore more!",
+        "Promo codes can be applied during checkout. Let me share the current codes with you.",
+        "Check out our seasonal sale for discounts on selected items.",
+        "First-time buyers get a 10% discount. Use code WELCOME10 at checkout.",
+        "Students can avail of a special discount by verifying their student ID."
+      ]
+    }
+]
